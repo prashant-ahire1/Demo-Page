@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.hed{
+    margin-top: 15px ;
+    text-align: center;
+}
+
+.first{
+    margin-left: 10%;
+    padding-top: 20%;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.bt1{
+    color: aqua;
+    border-radius: 7px;
+    margin-top: 10px;
+}
